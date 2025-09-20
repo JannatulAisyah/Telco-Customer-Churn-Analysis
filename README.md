@@ -25,4 +25,8 @@ This project analyzes the **Telco Customer Churn** dataset (Kaggle) using SQL in
 ## Files
 - `Telco_Churn_SQL.ipynb` — Colab notebook (cleaning, SQL queries, plots).  
 
+## Author
+👤 Jannatul Aisyah  
+🎓 Applied Statistics | Aspiring Data Analyst  
+📌 [LinkedIn](linkedin.com/in/jannatulaisyah)
 
