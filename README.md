@@ -39,5 +39,5 @@ This project analyzes the **Telco Customer Churn** dataset (Kaggle) using SQL in
 ## Author
 👤 Jannatul Aisyah  
 🎓 Applied Statistics | Aspiring Data Analyst  
-📌 [LinkedIn](linkedin.com/in/jannatulaisyah)
+📌 [LinkedIn](linkedin.com/in/jannatulaisyahh)
 
