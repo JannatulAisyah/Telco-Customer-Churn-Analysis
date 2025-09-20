@@ -17,6 +17,17 @@ This project analyzes the **Telco Customer Churn** dataset (Kaggle) using SQL in
 - Higher churn: seniors, month-to-month contracts, fiber optic users, electronic-check payers.  
 - Lost revenue from churn: ~ \$139K/month (~ \$1.6M/year).
 
+## Visual Insights
+
+### Churn by Contract Type
+![Churn by Contract](churn_by_contract.png)
+
+### Churn by Payment Method
+![Churn by Payment Method](churn_by_payment.png)
+
+### Churn Status in Top 10 Highest Paying Customers
+![Churn Status in Top 10 Highest Paying Customers](top_10_customers.png)
+
 ## How to run
 1. Open `Telco_Churn_SQL.ipynb` in Google Colab (or run locally).  
 2. Upload the dataset when prompted (download it from Kaggle link above).  
